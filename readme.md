@@ -1,4 +1,4 @@
-This directory contains *CMake* build system sample.
+This directory contains *CMake* build system *C++* sample project.
 
 Requires *cmake* package to be installed with
 
